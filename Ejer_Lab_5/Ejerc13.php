@@ -1,0 +1,9 @@
+<?php
+//ESTRUCTURA REPETITIVAS
+// ESCRIBA UN PROGRAMA PARA MOSTRAR NUMEROS POSITIVOS DE 1 HASTA 100 CON ESTRUCTURA DO-WHILE.
+$i =1;
+do{
+    echo "$i, ";
+    $i++;
+}while ($i <= 100) 
+?>
